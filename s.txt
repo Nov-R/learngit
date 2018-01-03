@@ -1,3 +1,2 @@
-hello world
-my name is
-ÎÒÈÕ ¹ş¹ş
+Git is a distributed version control system.
+Git is free software.
